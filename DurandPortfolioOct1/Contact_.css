@@ -1,0 +1,138 @@
+.mediaViewInfo {
+	--web-view-name: Contact ;
+	--web-view-id: Contact_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Contact_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Contact_ {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Contact ;
+	--web-view-id: Contact_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+
+#wingridden_bh {
+	position: absolute;
+	width: 4395px;
+	height: 4395px;
+	left: -199px;
+	top: -1843px;
+	overflow: visible;
+}
+#Work_bi {
+	left: 105px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Condor;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#About_bj {
+	left: 287px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Condor;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#Contact_bk {
+	left: 487px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Condor;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#n_621435_bl {
+	position: absolute;
+	width: 59px;
+	height: 59px;
+	left: 714px;
+	top: 54px;
+	overflow: visible;
+}
+#Twitter-logosvg_bm {
+	position: absolute;
+	width: 47px;
+	height: 39px;
+	left: 785px;
+	top: 64px;
+	overflow: visible;
+}
+#Untitled_bn {
+	mix-blend-mode: screen;
+	position: absolute;
+	width: 49px;
+	height: 49px;
+	left: 1807px;
+	top: 40px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#n_621435_bo {
+	position: absolute;
+	width: 282px;
+	height: 282px;
+	left: 376px;
+	top: 427px;
+	overflow: visible;
+}
+#Twitter-logosvg_bp {
+	position: absolute;
+	width: 189px;
+	height: 155px;
+	left: 866px;
+	top: 490px;
+	overflow: visible;
+}
+#gmail-icon-512x511-fih5xfbp {
+	position: absolute;
+	width: 195px;
+	height: 195px;
+	left: 1285px;
+	top: 470px;
+	overflow: visible;
+}
